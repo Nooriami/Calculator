@@ -1,0 +1,6 @@
+C:\Users\leram\Desktop\Calc-master\Calc-master\КАЛЬКУЛЯТОР\obj\Debug\КАЛЬКУЛЯТОР.csproj.AssemblyReference.cache
+C:\Users\leram\Desktop\Calc-master\Calc-master\КАЛЬКУЛЯТОР\obj\Debug\КАЛЬКУЛЯТОР.csproj.SuggestedBindingRedirects.cache
+C:\Users\leram\Desktop\Calc-master\Calc-master\КАЛЬКУЛЯТОР\obj\Debug\MainWindow.g.cs
+C:\Users\leram\Desktop\Calc-master\Calc-master\КАЛЬКУЛЯТОР\obj\Debug\App.g.cs
+C:\Users\leram\Desktop\Calc-master\Calc-master\КАЛЬКУЛЯТОР\obj\Debug\КАЛЬКУЛЯТОР_MarkupCompile.cache
+C:\Users\leram\Desktop\Calc-master\Calc-master\КАЛЬКУЛЯТОР\obj\Debug\КАЛЬКУЛЯТОР_MarkupCompile.lref
